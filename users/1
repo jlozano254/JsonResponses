@@ -1,0 +1,12 @@
+{
+    "message": "Successful request",
+    "data": {
+        "id": 1,
+        "name": "Testing User Name",
+        "storage_server_url": "https://experience.sap.com/fiori-design-web/wp-content/uploads/sites/5/2017/02/",
+        "avatar_image_name": "Avatar-Content.png",
+        "email": "user@example.com",
+        "updated_at": 1548204974
+    },
+    "checked_at": 1548204973
+}
